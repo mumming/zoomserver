@@ -1,2 +1,0 @@
-# zoomserver
-serverdel
